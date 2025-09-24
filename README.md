@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.09.2025
+## Register Number:25014491
+## Name:Mokesh.C
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,50 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+To address the challenges faced by small and marginal farmers, we propose developing a Smart Agricultural Advisory Platform that delivers real-time, personalized guidance in local languages through a simple mobile or web application. The system will integrate soil health data, weather forecasts, and crop history to recommend the best crops, fertilizers, and pest control measures using AI and ML techniques. For farmers with limited digital access, SMS and voice-based advisory services will ensure inclusivity.
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<pre>Use mobile app for farmers.
+
+Use local language and voice support.
+
+Farmer can enter info and get advice.
+
+App show warning about weather, pests and fertilizer.</pre>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<pre>
+  Mobile phone available for many farmers.
+
+Some farmers may not know how to use phone.
+
+Internet may be slow in villages.
+
+Solution: use voice support, offline mode, and help from local officers.
+</pre>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<pre>
+  Mobile phone available for many farmers.
+
+Some farmers may not know how to use phone.
+
+Internet may be slow in villages.
+
+Solution: use voice support, offline mode, and help from local officers.
+  
+</pre>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<pre>
+  "IoT and AI-Based Smart Agriculture Systems: A Review"
+
+Source: Journal of Computer Science and Applications
+
+Link: ScienceDirect Link
+
+"Big Data Analytics in Agriculture"
+
+Source: Elsevier – Information Processing in Agriculture
+
+Link: Read Here
+</pre>
