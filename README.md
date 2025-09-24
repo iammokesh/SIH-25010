@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.09.2025
+## Register Number:25014491
+## Name:Mokesh.C
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,53 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+<pre>The solution is a mobile app or chatbot for farmers.
+It will give advice for farming based on the farmer location, weather, soil, and crops.</pre>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<pre>Use mobile app for farmers.
 
+Use local language and voice support.
+
+Farmer can enter info and get advice.
+
+App show warning about weather, pests and fertilizer.
+  
+      Flow chart:
+     
+                  
+
+      
+
+</pre>
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<pre>Mobile phone available for many farmers.
+
+Some farmers may not know how to use phone.
+
+Internet may be slow in villages.
+
+Solution: use voice support, offline mode, and help from local officers.
+</pre>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<pre>Farmers grow more crops and earn more money.
 
+Save money by using right fertilizer.
+
+Less chemical use so environment is safe.
+
+Farmers can get advice without waiting for someone.</pre>
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<pre>
+  Precision Agriculture for Sustainability and Environmental Protection – Margaret Oliver
+🔗 ScienceDirect Book Link
+  "Precision Agriculture: A New Approach to Crop Production in India"
+
+Source: International Journal of Current Microbiology and Applied Sciences
+Link: Read on ResearchGate
+  IoT and AI-Based Smart Agriculture Systems: A Review"
+Source: Journal of Computer Science and Applications
+Link: ScienceDirect Link
+</pre>
