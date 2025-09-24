@@ -50,6 +50,7 @@ Use local language and voice support.
 Farmer can enter info and get advice.
 
 App show warning about weather, pests and fertilizer.</pre>
+![Uploading pic for sih.png…]()
 
 ## Feasibility and Viability
 <pre>
